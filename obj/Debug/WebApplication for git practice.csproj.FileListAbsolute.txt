@@ -1,0 +1,51 @@
+c:\users\kiranu\documents\visual studio 2013\Projects\WebApplication for git practice\WebApplication for git practice\bin\WebApplication for git practice.dll.config
+c:\users\kiranu\documents\visual studio 2013\Projects\WebApplication for git practice\WebApplication for git practice\bin\WebApplication for git practice.dll
+c:\users\kiranu\documents\visual studio 2013\Projects\WebApplication for git practice\WebApplication for git practice\bin\WebApplication for git practice.pdb
+c:\users\kiranu\documents\visual studio 2013\Projects\WebApplication for git practice\WebApplication for git practice\bin\Antlr3.Runtime.dll
+c:\users\kiranu\documents\visual studio 2013\Projects\WebApplication for git practice\WebApplication for git practice\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\kiranu\documents\visual studio 2013\Projects\WebApplication for git practice\WebApplication for git practice\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\kiranu\documents\visual studio 2013\Projects\WebApplication for git practice\WebApplication for git practice\bin\EntityFramework.dll
+c:\users\kiranu\documents\visual studio 2013\Projects\WebApplication for git practice\WebApplication for git practice\bin\EntityFramework.SqlServer.dll
+c:\users\kiranu\documents\visual studio 2013\Projects\WebApplication for git practice\WebApplication for git practice\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\kiranu\documents\visual studio 2013\Projects\WebApplication for git practice\WebApplication for git practice\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\kiranu\documents\visual studio 2013\Projects\WebApplication for git practice\WebApplication for git practice\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\kiranu\documents\visual studio 2013\Projects\WebApplication for git practice\WebApplication for git practice\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\kiranu\documents\visual studio 2013\Projects\WebApplication for git practice\WebApplication for git practice\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\kiranu\documents\visual studio 2013\Projects\WebApplication for git practice\WebApplication for git practice\bin\Microsoft.Owin.dll
+c:\users\kiranu\documents\visual studio 2013\Projects\WebApplication for git practice\WebApplication for git practice\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\kiranu\documents\visual studio 2013\Projects\WebApplication for git practice\WebApplication for git practice\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\kiranu\documents\visual studio 2013\Projects\WebApplication for git practice\WebApplication for git practice\bin\Microsoft.Owin.Security.dll
+c:\users\kiranu\documents\visual studio 2013\Projects\WebApplication for git practice\WebApplication for git practice\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\kiranu\documents\visual studio 2013\Projects\WebApplication for git practice\WebApplication for git practice\bin\Microsoft.Owin.Security.Google.dll
+c:\users\kiranu\documents\visual studio 2013\Projects\WebApplication for git practice\WebApplication for git practice\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\kiranu\documents\visual studio 2013\Projects\WebApplication for git practice\WebApplication for git practice\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\kiranu\documents\visual studio 2013\Projects\WebApplication for git practice\WebApplication for git practice\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\kiranu\documents\visual studio 2013\Projects\WebApplication for git practice\WebApplication for git practice\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\kiranu\documents\visual studio 2013\Projects\WebApplication for git practice\WebApplication for git practice\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\kiranu\documents\visual studio 2013\Projects\WebApplication for git practice\WebApplication for git practice\bin\Microsoft.Web.Infrastructure.dll
+c:\users\kiranu\documents\visual studio 2013\Projects\WebApplication for git practice\WebApplication for git practice\bin\Newtonsoft.Json.dll
+c:\users\kiranu\documents\visual studio 2013\Projects\WebApplication for git practice\WebApplication for git practice\bin\Owin.dll
+c:\users\kiranu\documents\visual studio 2013\Projects\WebApplication for git practice\WebApplication for git practice\bin\System.Web.Optimization.dll
+c:\users\kiranu\documents\visual studio 2013\Projects\WebApplication for git practice\WebApplication for git practice\bin\System.Web.Providers.dll
+c:\users\kiranu\documents\visual studio 2013\Projects\WebApplication for git practice\WebApplication for git practice\bin\WebGrease.dll
+c:\users\kiranu\documents\visual studio 2013\Projects\WebApplication for git practice\WebApplication for git practice\bin\System.Web.Optimization.xml
+c:\users\kiranu\documents\visual studio 2013\Projects\WebApplication for git practice\WebApplication for git practice\bin\Antlr3.Runtime.pdb
+c:\users\kiranu\documents\visual studio 2013\Projects\WebApplication for git practice\WebApplication for git practice\bin\Newtonsoft.Json.xml
+c:\users\kiranu\documents\visual studio 2013\Projects\WebApplication for git practice\WebApplication for git practice\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\kiranu\documents\visual studio 2013\Projects\WebApplication for git practice\WebApplication for git practice\bin\EntityFramework.xml
+c:\users\kiranu\documents\visual studio 2013\Projects\WebApplication for git practice\WebApplication for git practice\bin\EntityFramework.SqlServer.xml
+c:\users\kiranu\documents\visual studio 2013\Projects\WebApplication for git practice\WebApplication for git practice\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\kiranu\documents\visual studio 2013\Projects\WebApplication for git practice\WebApplication for git practice\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\kiranu\documents\visual studio 2013\Projects\WebApplication for git practice\WebApplication for git practice\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\kiranu\documents\visual studio 2013\Projects\WebApplication for git practice\WebApplication for git practice\bin\Microsoft.Owin.xml
+c:\users\kiranu\documents\visual studio 2013\Projects\WebApplication for git practice\WebApplication for git practice\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\kiranu\documents\visual studio 2013\Projects\WebApplication for git practice\WebApplication for git practice\bin\Microsoft.Owin.Security.xml
+c:\users\kiranu\documents\visual studio 2013\Projects\WebApplication for git practice\WebApplication for git practice\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\kiranu\documents\visual studio 2013\Projects\WebApplication for git practice\WebApplication for git practice\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\kiranu\documents\visual studio 2013\Projects\WebApplication for git practice\WebApplication for git practice\bin\Microsoft.Owin.Security.Google.xml
+c:\users\kiranu\documents\visual studio 2013\Projects\WebApplication for git practice\WebApplication for git practice\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\kiranu\documents\visual studio 2013\Projects\WebApplication for git practice\WebApplication for git practice\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\kiranu\documents\visual studio 2013\Projects\WebApplication for git practice\WebApplication for git practice\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\kiranu\documents\visual studio 2013\Projects\WebApplication for git practice\WebApplication for git practice\obj\Debug\WebApplication for git practice.csprojResolveAssemblyReference.cache
+c:\users\kiranu\documents\visual studio 2013\Projects\WebApplication for git practice\WebApplication for git practice\obj\Debug\WebApplication for git practice.dll
+c:\users\kiranu\documents\visual studio 2013\Projects\WebApplication for git practice\WebApplication for git practice\obj\Debug\WebApplication for git practice.pdb
